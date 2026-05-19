@@ -1,0 +1,22 @@
+ModelMind-DS Architecture
+
+1. Dataset Input
+   - CSV file is uploaded by the user.
+
+2. Dataset Passport
+   - Rows, columns, data types, missing values, duplicate rows, numeric/categorical columns.
+
+3. Task Router
+   - Detects whether the problem is regression, classification, clustering, or time-series/regression.
+
+4. Model Recommender
+   - Suggests models based on task type and data characteristics.
+
+5. Baseline Runner
+   - Trains simple baseline models and compares them using suitable metrics.
+
+6. Explanation Layer
+   - Produces a plain-language explanation of why a model was selected.
+
+7. Industrial Review
+   - Final output is treated as a decision-support report, not an automatic deployment decision.
