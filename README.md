@@ -1,2 +1,2 @@
 # modelmind-ds
-Adaptive Data Science Workflow Assistant for industrial datasets using task detection, model recommendation, baseline ML, and explainable reporting.
+ModelMind-DS is an adaptive data science workflow assistant that profiles datasets, detects the suitable ML task, recommends models, runs baseline experiments, and generates explainable insights for industrial analytics use cases.
