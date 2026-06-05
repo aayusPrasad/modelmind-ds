@@ -227,15 +227,6 @@ as the target column.
 
 ---
 
-## Demo Screenshot
-
-The Streamlit prototype demonstrating dataset upload, task detection, model recommendation, and explainable reporting.
-
-![ModelMind-DS Demo](assets/demo_Screenshot1.png)
-![ModelMind-DS Demo](assets/demo_Screenshot2.png)
-![ModelMind-DS Demo](assets/demo_Screenshot3.png)
-
----
 
 ## Run the CLI Demo
 
